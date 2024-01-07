@@ -3,7 +3,7 @@
 # S의 최솟값을 출력하는 프로그램
 # B의 값이 클수록 A의 값중 작은 것을 선택하도록 한다
 import sys
-sys.stdin = open("BOJ1026.txt")
+sys.stdin = open("/Users/dang/Desktop/2024_Algorithm/Greedy/BOJ1026/BOJ1026.txt")
 
 # N = int(input())
 # A = list(map(int, input().split()))
